@@ -7,18 +7,31 @@ console.log("====================================================");
 console.log("      Let's start with 3rd part of the lesson       ");
 console.log("====================================================");
 
+console.log("a:", a, "b:", b, "c:", c);
+
 // Arithmetic operations
-console.log(a + b);
-console.log(a + b + c);
+console.log("a + b:", a + b);
+console.log("a + b + c:", a + b + c);
 
-console.log(a - b);
-console.log(b - a);
+console.log("a - b:", a - b);
+console.log("b - a:", b - a);
 
-console.log(a * b);
-console.log(a ** b);
+console.log("a * b:", a * b);
+console.log("a ** b:", a ** b);
 
-console.log(a / b);
-console.log(a % b);
+console.log("a / b:", a / b);
+console.log("a % b:", a % b);
+
+// Comparison operators
+const x = '10';
+console.log("Comparison operators");
+console.log("a:", a, "x:", x);
+console.log("typeof a:", typeof a, " typeof x:", typeof x);
+console.log("a == x:", a == x);
+console.log("a === x:", a === x);
+console.log("a != x:", a != x);
+console.log("a !== x:", a !== x);
+
 
 // Operator precedence
 console.log("Operator precedence");
