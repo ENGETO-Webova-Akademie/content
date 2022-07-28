@@ -1,4 +1,4 @@
-// Define variables with let / const
+// Definice promennych a, b, c pomoci let / const
 const a = 10;
 const b = 7;
 let c = 2;
@@ -9,7 +9,7 @@ console.log("====================================================");
 
 console.log("a:", a, "b:", b, "c:", c);
 
-// Arithmetic operations
+// Aritmeticke operatory
 console.log("a + b:", a + b);
 console.log("a + b + c:", a + b + c);
 
@@ -22,7 +22,7 @@ console.log("a ** b:", a ** b);
 console.log("a / b:", a / b);
 console.log("a % b:", a % b);
 
-// Comparison operators
+// Operatory porovnani
 const x = '10';
 console.log("Comparison operators");
 console.log("a:", a, "x:", x);
@@ -38,16 +38,16 @@ console.log("Operator precedence");
 console.log(4 + 5 - 10 + 7 * 4 + 3)
 console.log((4 + 5 - 10 + 7) * 4 + 3)
 
-// Comments
+// Komentare
 console.log("====================================================");
 console.log("                   Comment types                    ");
 console.log("====================================================");
 
-// Define variable test
+// Definice promenne test
 let test = "Hello world";
 
-// Alternative commentary
-let test_alt = "Hello world"; // Define variable test
+// Inline komentar
+let test_alt = "Hello world"; // Definice promenne test
 
 /* This is a multiline JavaScript comment
  * You can use this format in all files and JS scripts you create
@@ -63,7 +63,7 @@ function greetUser(name) {
     return `Greetings, ${name}!`;
 }
 
-// Console log types
+// Console log typy
 console.log("====================================================");
 console.log("                 CONSOLE Log types                  ");
 console.log("====================================================");
