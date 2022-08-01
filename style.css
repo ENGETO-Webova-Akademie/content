@@ -1,19 +1,23 @@
+html {
+    height: 100%;
+}
+
 body {
-    background: linear-gradient(135deg, #8ff0a4 0%, #99c1f1 100%)
+    background: linear-gradient(135deg, #8ff0a4 0%, #99c1f1 100%) no-repeat center center fixed;
+    background-size: cover;
+    padding-bottom: 50px;
 }
 
 div {
-    position:fixed;
-    top: 50%;
-    left: 50%;
-    width:30em;
-    height:18em;
-    margin-top: -9em; /*set to a negative number 1/2 of your height*/
-    margin-left: -15em; /*set to a negative number 1/2 of your width*/
+    margin-bottom: 50px;
 }
 
 h1 {
     font-size: 30px;
     display: flex;
     justify-content: center;
+}
+
+h2 {
+    margin-left: 20px;
 }
