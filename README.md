@@ -1,6 +1,7 @@
 # web_dev_aka
 
 ### Osnova
+<p>Použití Githubu</p>
 <p>What is JavaScript</p>
 <p>JS use cases</p>
 <p>JS History</p>
@@ -8,6 +9,16 @@
 <p>First variable - var also ES6</p>
 <p>Creating variables - Modern JS good practice for beginners</p>
 <p>Developer tools basics</p>
+
+### Použití Githubu
+Zodpovíme dotazy:
+ * Co je to Github?
+ * Proč používáme Github a ne jiné řešení?
+
+Pro naše účely budeme používat Gitlab jako místo, které obsahuje materiály ENGETO Javascript Academy.
+
+Každá lekce obsahuje složku se soubory, kde jsou umístěny počáteční a závěrečné soubory pro každou část/lekci lekce. Součástí úložiště jsou také soubory index.html, které pracují se soubory Javascript.
+Během akademie budeme také používat Github pro nahrávání a kontrolu úkolů / projektů.
 
 ### What is JavaScript
 <p> is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS</p>
@@ -35,8 +46,6 @@
 <p>A single server can serve multiple clients at the same time </p>
 <p>A server can contain web resources, host web applications, stores user and program data, etc.</p>
 <p>A server is always listening for requests, and as soon as it receives one, responds with a message</p>
-
-https://www.autodraw.com/
 
 
 #### Browser engines
@@ -80,6 +89,8 @@ https://faun.pub/all-about-javascript-its-industry-used-cases-4246a4796723
     <li>JS v HTML</li>
     <li>Script tag</li>
 <!--
+console.log("Toto je test");
+alert("Test vyskakovaciho okna");
 let d = new Date();
 document.body.innerHTML = "<h1>Today's date is " + d + "</h1>"
  -->

@@ -32,6 +32,7 @@ console.log("a === x:", a === x);
 console.log("a != x:", a != x);
 console.log("a !== x:", a !== x);
 
+// Další příklady k === / == a !== / !=
 
 // Operator precedence
 console.log("Operator precedence");
