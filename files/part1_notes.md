@@ -69,6 +69,14 @@ alert("Test vyskakovaciho okna");
 * Ukažte, jak deklarovat proměnnou v moderním JS.
 * Poprvé použití console.log().
 
+#### Příklad použití proměnných - oslovení v newsletteru
+
+![IntercomNewsletter](./img/variable_intercom.png)
+
+Jiný příklad pro newsletter: 
+
+![RandomNewsletter](./img/variable_newsletter.png)
+
 ### Základy vývojářských nástrojů
 * Vývojářské nástroje jsou programy, které umožňují vývojářům vytvářet, testovat a ladit software.
 * Současné prohlížeče poskytují integrované vývojářské nástroje, které umožňují kontrolovat webové stránky. Umožňují uživatelům kontrolovat a ladit HTML, CSS a JavaScript stránky, kontrolují síťový provoz, který stránka způsobuje, umožňují měřit její výkon a mnoho dalšího.
