@@ -61,7 +61,7 @@ let test_alt = "Hello world"; // Definice promenne test
 * @return   {String}         Greeting message
 */
 function greetUser(name) {
-    return `Greetings, ${name}!`;
+    return `Ahoj, ${name}!`;
 }
 
 // Console log typy
