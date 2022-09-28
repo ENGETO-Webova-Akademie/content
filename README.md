@@ -1,4 +1,5 @@
 # Front-end Developer Akademie
+## Lekce #4: Úvod do JavaScriptu
 
 ### Použití Githubu
 Zodpovíme dotazy:
@@ -10,4 +11,4 @@ Pro naše účely budeme používat Gitlab jako místo, které obsahuje materiá
 Každá lekce obsahuje složku se soubory, kde jsou umístěny počáteční a závěrečné soubory pro každou část/lekci lekce. Součástí úložiště jsou také soubory index.html, které pracují se soubory Javascript.
 Během akademie budeme také používat Github pro nahrávání a kontrolu úkolů / projektů.
 
-### Jak používat tento repozitář
+V složce files nalezneme i .md soubory s poznámkami lektorů k jednotlivým částem lekce.
