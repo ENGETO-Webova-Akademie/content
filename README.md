@@ -12,3 +12,6 @@ Každá lekce obsahuje složku se soubory, kde jsou umístěny počáteční a z
 Během akademie budeme také používat Github pro nahrávání a kontrolu úkolů / projektů.
 
 V složce files nalezneme i .md soubory s poznámkami lektorů k jednotlivým částem lekce.
+
+### Extra materiály
+ * Vizualizace JS kódu: https://pythontutor.com/javascript.html#mode=edit
